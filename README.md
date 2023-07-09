@@ -52,7 +52,7 @@ code:.
 
 ## Run
 
-进入code文件夹，通过以下指令运行代码：
+进入code文件夹，需要将数据集中所有的jpg与txt文件放入data/路径下，通过以下指令运行代码：
 
 ```
 python3 main.py
